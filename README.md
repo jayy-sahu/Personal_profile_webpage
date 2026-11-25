@@ -35,7 +35,7 @@ The website provides easy navigation between the Profile Page, Resume Page, and 
 - Back to Profile button.
 - Fixed-size layout with internal scrolling.
 
-👨‍💻**About Me**
+👨‍💻 **About Me**
 
 **Jay Kumar Sahu** - Aspiring Web Developer
 •Email: sahujay2297@gmail.com
