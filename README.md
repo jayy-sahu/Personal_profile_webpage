@@ -38,8 +38,8 @@ The website provides easy navigation between the Profile Page, Resume Page, and 
 👨‍💻**About Me**
 
 **Jay Kumar Sahu** - Aspiring Web Developer
--Email: sahujay2297@gmail.com
--Phone: 8349330613
--Location: Raipur, chhattisgarh
--LinkedIn: [Your LinkedIn]
--GitHub: [Your GitHub]
+•Email: sahujay2297@gmail.com
+•Phone: 8349330613
+•Location: Raipur, chhattisgarh
+•LinkedIn: [Your LinkedIn]
+•GitHub: [Your GitHub]
