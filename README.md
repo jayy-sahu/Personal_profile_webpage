@@ -43,3 +43,7 @@ The website provides easy navigation between the Profile Page, Resume Page, and 
 •Location: Raipur, chhattisgarh
 •LinkedIn: [Your LinkedIn]
 •GitHub: [Your GitHub]
+
+⭐ **If you like this project, feel free to explore the repository and share your feedback!**
+
+**Thank you for visiting my project** 🙏
